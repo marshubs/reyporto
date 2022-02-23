@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Jr. Full-Stack", "Video Editor", "Discord Bot Developer"],
+    strings: ["Dev Web Anime", "Moderator Royale Mars", "Discord Bot Developer"],
     typeSpeed: 60,
     startDelay: 900,
     showCursor: false,
